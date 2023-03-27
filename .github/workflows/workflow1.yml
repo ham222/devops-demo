@@ -1,4 +1,5 @@
-name: CI Pipeline (DOC1)
+name: FirstPipeline
+
 on:
 #Manually trigger workflow runs
   workflow_dispatch:
